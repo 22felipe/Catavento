@@ -60,6 +60,13 @@ A função update() é chamada a cada 16 ms (~60 FPS) para atualizar o ângulo d
 
 ---
 
+## 📂 Estrutura do Repositório
+
+- **`catavento.c`** → Código-fonte em C com a implementação do catavento.  
+- **`catavento.gif`** → Animação demonstrando o programa em execução.  
+- **`comando.txt`** → Lista de comandos para compilar e executar a aplicação no terminal.  
+- **`c.exe`** → Executável gerado a partir do código-fonte (Windows).
+
 ## 📸 Demonstração
 ![Catavento em execução](catavento.gif)
 
