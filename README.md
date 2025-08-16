@@ -82,6 +82,6 @@ A função update() é chamada a cada 16 ms (~60 FPS) para atualizar o ângulo d
 ---
 
 ## 🧑‍💻 Autor
-Felipe Gabriel Marques dos Santos 
+Felipe Gabriel Marques dos Santos  
 Disciplina: Computação Gráfica  
 Curso: Ciência da Computação
