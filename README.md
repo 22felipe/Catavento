@@ -67,6 +67,8 @@ A função update() é chamada a cada 16 ms (~60 FPS) para atualizar o ângulo d
 - **`comando.txt`** → Lista de comandos para compilar e executar a aplicação no terminal.  
 - **`c.exe`** → Executável gerado a partir do código-fonte (Windows).
 
+---
+
 ## 📸 Demonstração
 ![Catavento em execução](catavento.gif)
 
