@@ -1,0 +1,5 @@
+1ºcomando 
+gcc catavento.c -o c.exe -lfreeglut -lopengl32 -lglu32
+
+2º
+.\c 
